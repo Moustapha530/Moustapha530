@@ -43,6 +43,5 @@ Whether you're working on a game, web app, or automation tool, I'm happy to cont
 
 ## 📫 Contact Me
 - [My LinkedIn](https://example.com)
-- [My Email](mailto: salemmalola530@gmail.com)
 - [My Facebook](https://facebook.com/profile.php?Id=61573799728974)
 - [My Twitter](https://x.com/SalemMalola)
