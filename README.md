@@ -44,4 +44,4 @@ Whether you're working on a game, web app, or automation tool, I'm happy to cont
 ## 📫 Contact Me
 - [My LinkedIn](https://linkedin.com/in/moustapha530)
 - [My Facebook](https://facebook.com/profile.php?Id=61573799728974)
-- [My Twitter](https://x.com/MoustaphaMukwini)
+- [My Twitter](https://x.com/Moustapha530)
